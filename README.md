@@ -4,4 +4,5 @@
 
 This is a Simple Symptom checker for Tick-borne disorder (based on Dr. Horowitz Lyme Quiz). You can easily integrate this into your website.
 
-Please note : We are not using any Database for storing the Questions and Answers.
+**Please note** : 
+1. We are not using any Database for storing the Questions and Answers.
